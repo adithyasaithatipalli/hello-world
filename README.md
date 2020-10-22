@@ -1,7 +1,4 @@
-# hello-world
-First repository and a starting step
+Hello All,
 
-Hi Guys... I am Sai adithya. This is my first step and want to start very good steps in github...
+I am tring to buid my own repo of write-ups on TryHackMe. I will be adding things for my reference.
 
-
-Thanks in advance..
